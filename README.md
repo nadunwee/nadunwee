@@ -8,4 +8,4 @@ I am an Undergraduate Software Engineer from Sri Lanka 🌍. I love to code my i
 - 📫 LinkedIn: https://www.linkedin.com/in/nadunweerakkody/
 
 ### My languages and tools
-`Javascript` `ReactJs` `ExpressJs` `MongoDB` `Python` `Flask`
+`Javascript` `ReactJs` `ExpressJs` `MongoDB` `Python` `Flask` `PHP`
